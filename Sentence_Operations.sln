@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Split", "Sentence_Operations\Split.csproj", "{39B5B858-E04A-48D4-AEF6-50C88F7D24BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse", "Reverse\Reverse.csproj", "{C224E653-3812-4BB8-858A-8BD4DEB9F63B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39B5B858-E04A-48D4-AEF6-50C88F7D24BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39B5B858-E04A-48D4-AEF6-50C88F7D24BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39B5B858-E04A-48D4-AEF6-50C88F7D24BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39B5B858-E04A-48D4-AEF6-50C88F7D24BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C224E653-3812-4BB8-858A-8BD4DEB9F63B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C224E653-3812-4BB8-858A-8BD4DEB9F63B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C224E653-3812-4BB8-858A-8BD4DEB9F63B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C224E653-3812-4BB8-858A-8BD4DEB9F63B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B61C27B3-0573-44CD-8190-F3ACEC18A2A8}
+	EndGlobalSection
+EndGlobal
